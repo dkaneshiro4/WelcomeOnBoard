@@ -51,7 +51,8 @@ For building our web applications we use IIS, PHP, and MySQL. We usually do our 
 4. After installing the extension you can close the extension manager.
 5. to **File > Preferences > Settings** and in the **Search settings** input box type and press the **Enter** key.
 6. In the results you should see a setting for **Editor: Format On Save** click the checkbox next to this setting to enable it.
-7. Feel free to install any other extensions.
+7. There are some features in Intelephense extension that are behind a paywall. You will only need the free features. 
+8. Feel free to install any other extensions.
 
 ### Install Microsoft SQL Server Management Studio
 Besides MySQL databases we also have Microsoft SQL Server databases that we may need to query for data so this is a good tool to have on hand.
@@ -64,6 +65,6 @@ Besides MySQL databases we also have Microsoft SQL Server databases that we may 
 1. For coding style guides please look at the **[PHP Framework Interop Group (PHP-FIG)](https://www.php-fig.org/)** website. 
 2. Follow the coding style outlined in PSR-1 and PSR-12
 3. Use camelCase for variableNames, propertyNames, functionNames, and methodNames.
-4. The Intellephense VS Code extension will help with formatting your code.
+4. The Intelephense VS Code extension will help with formatting your code.
 
 
