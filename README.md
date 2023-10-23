@@ -40,12 +40,12 @@ For building our web applications we use IIS, PHP, and MySQL. We usually do our 
 2. Download and install the latest 64-bit version of MySQL Workbench.
 3. As I go through the installer I usually accept the defaults.
 
-### Install Visual Studio Code
+### Install Visual Studio Code (VS Code)
 1. Download and install the latest stable build of the 64-bit version of [Visual Studio Code](https://code.visualstudio.com).
 2. As I go through the installer I usually accept the defaults.
 
 ### Install the PHP Intelephense Extension
-1. Open Visual Studio Code
+1. Open VS Code
 2. Open the Extensions manager; either use the shortcut `ctrl-shift-x` or go to **File > Preferences > Extensions**.
 3. In the **Search Extensions in Marketplace** search box type **PHP Intelephense** and install it.
 4. After installing the extension you can close the extension manager.
@@ -60,5 +60,10 @@ Besides MySQL databases we also have Microsoft SQL Server databases that we may 
 3. Install SQL Server Management Studio.
 4. As I go through the installer I usually accept the defaults.
 
+### Coding Style Guide
+1. For coding style guides please look at the [PHP Framework Interop Group (PHP-FIG)](https://www.php-fig.org/) website. 
+2. Follow the coding style outlined in PSR-1 and PRS-12
+3. Use camelCase for variableNames, propertyNames, functionNames, and methodNames.
+4. The Intellephense VS Code extension will help with formatting your code.
 
 
