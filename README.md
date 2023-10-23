@@ -18,7 +18,7 @@ For building our web applications we use IIS, PHP, and MySQL. We usually do our 
 
 ### Install Hyper-V and IIS on Windows
 1. Navigate to **Control Panel > Programs > Programs and Features > Turn Windows features on or off**.
-2. Expand the **Hyper-V** and **Internet Information Services** node and make sure the following features are selected.
+2. Expand the **Hyper-V** and **Internet Information Services** nodes and make sure the following features are selected.
 
 ![alt text](assets/images/HyperVAndIISFeatures.png)
 
@@ -26,7 +26,7 @@ For building our web applications we use IIS, PHP, and MySQL. We usually do our 
 
 ### Install PHP
 1. Navigate to the following [website](https://learn.microsoft.com/en-us/iis/application-frameworks/scenario-build-a-php-website-on-iis/configuring-step-1-install-iis-and-php)
-2. Follow the instructions in section **1.2 Download and Install PHP Manually**, but **skip steps 2, 3 & 4**
+2. Follow the instructions in section **1.2 Download and Install PHP Manually**, but **skip steps 2 & 4**
 3. After step 18, do the next section called **To test your PHP installation**.
 4. If you are unsure how to configure your php.ini file you can copy the following [php.ini](assets/files/php.ini) file to your C:\php folder.
 
