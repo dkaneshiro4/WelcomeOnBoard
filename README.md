@@ -61,7 +61,7 @@ Besides MySQL databases we also have Microsoft SQL Server databases that we may 
 4. As I go through the installer I usually accept the defaults.
 
 ### Coding Style Guide
-1. For coding style guides please look at the [PHP Framework Interop Group (PHP-FIG)](https://www.php-fig.org/) website. 
+1. For coding style guides please look at the **[PHP Framework Interop Group (PHP-FIG)](https://www.php-fig.org/)** website. 
 2. Follow the coding style outlined in PSR-1 and PRS-12
 3. Use camelCase for variableNames, propertyNames, functionNames, and methodNames.
 4. The Intellephense VS Code extension will help with formatting your code.
