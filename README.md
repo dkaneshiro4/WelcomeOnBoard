@@ -14,7 +14,7 @@ For building our web applications we use IIS, PHP, and MySQL. We usually do our 
 7. If you are not able to access this folder, please let me know. But if you are able to see a list of directories/files go to the next step.
 8. Type the following command to clone this WelcomeOnBoard project.
    - `git clone //hpdrepos/git/WelcomeOnBoard.git`
-9. This will create a folder called WelcomeOnBoard in your **websites** directory. You can there is a copy of this `README.md` file in the project folder.
+9. This will create a folder called WelcomeOnBoard in your **websites** directory. There is a copy of this `README.md` file in the project folder.
 
 ### Install Hyper-V and IIS on Windows
 1. Navigate to **Control Panel > Programs > Programs and Features > Turn Windows features on or off**.
