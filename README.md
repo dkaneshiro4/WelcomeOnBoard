@@ -36,7 +36,6 @@ For building our web applications we use IIS, PHP, and MySQL. We usually do our 
 3. I normally accept the defaults and I keep the root password as blank, but you may use your own password if you want.
 4. You may be asked to install Visual Studio C++ redistributable packages you can find them at the following [website](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 
-
 ### Install MySQL Workbench
 1. Navigate to the following [website](https://dev.mysql.com/downloads/workbench/)
 2. Download and install the latest 64-bit version of MySQL Workbench.
