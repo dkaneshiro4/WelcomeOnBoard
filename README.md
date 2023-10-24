@@ -66,5 +66,5 @@ Besides MySQL databases we also have Microsoft SQL Server databases that we may 
 ### Coding Style Guide
 1. For coding style guides please look at the **[PHP Framework Interop Group (PHP-FIG)](https://www.php-fig.org/)** website. 
 2. Follow the coding style outlined in PSR-1 and PSR-12
-3. Use camelCase for variableNames, propertyNames, functionNames, and methodNames. I know that there were no rules about this before but moving forward with new programming projects use camelCase.
+3. Use camelCase for `$variableNames`, `$propertyNames`, `functionNames`, and `methodNames`. I know that there were no rules about this before but moving forward with new programming projects use camelCase.
 4. The Intelephense VS Code extension will help with formatting your code, especially with indenting and curly brace `{}` placement.
