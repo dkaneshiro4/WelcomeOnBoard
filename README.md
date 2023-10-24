@@ -58,7 +58,7 @@ For building our web applications we use IIS, PHP, and MySQL. We usually do our 
 
 ### Install Microsoft SQL Server Management Studio
 Besides MySQL databases we also have Microsoft SQL Server databases that we may need to query for data so this is a good tool to have on hand.
-1. Navigate the the following [website](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
+1. Navigate to the following [website](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
 2. Click on the link **[Free Download for SQL Server Management Studio (SSMS) 19.1](https://aka.ms/ssmsfullsetup)**
 3. Install SQL Server Management Studio.
 4. As I go through the installer I usually accept the defaults.
