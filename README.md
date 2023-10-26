@@ -24,6 +24,14 @@ For building our web applications we use IIS, PHP, and MySQL. We usually do our 
 
 3. Click **OK** to install the selected features.  You may be asked to restart your computer.
 
+### Install URL rewrite
+You will need this if your application will need IIS to obey any kind of URL rewriting rules. T
+1. Navigate to the following [website](https://www.iis.net/downloads/microsoft/url-rewrite)
+2. Download the English **[x64 installer](https://download.microsoft.com/download/1/2/8/128E2E22-C1B9-44A4-BE2A-5859ED1D4592/rewrite_amd64_en-US.msi)**
+3. Open the file you just downloaded to start the installation wizard.
+4. As you run through the installation wizard, accept the license agreement, and I don't think it will ask you to make any selections.
+5. Click the **Finish** button at the end.
+
 ### Install PHP
 1. Navigate to the following [website](https://learn.microsoft.com/en-us/iis/application-frameworks/scenario-build-a-php-website-on-iis/configuring-step-1-install-iis-and-php)
 2. Follow the instructions in section **1.2 Download and Install PHP Manually**, but **skip steps 2 & 4**
