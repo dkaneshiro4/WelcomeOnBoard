@@ -59,7 +59,7 @@ You will need this if your application will need IIS to obey any kind of URL rew
 2. Open the Extensions manager; either use the shortcut `ctrl-shift-x` or go to **File > Preferences > Extensions**.
 3. In the **Search Extensions in Marketplace** search box type **PHP Intelephense** and install it.
 4. After installing the extension you can close the extension manager.
-5. to **File > Preferences > Settings** and in the **Search settings** input box type and press the **Enter** key.
+5. to **File > Preferences > Settings** and in the **Search settings** input box type **format on save** and press the **Enter** key.
 6. In the results you should see a setting for **Editor: Format On Save** click the checkbox next to this setting to enable it.
 7. There are some features in Intelephense extension that are behind a paywall. You will only need the free features. 
 8. Feel free to install any other extensions.
